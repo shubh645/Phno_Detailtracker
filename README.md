@@ -6,9 +6,9 @@ It can't provide the accurate location of the person because of user privacy. It
 
 ## Installation:
 (using pip command)      
-pip install phonenumbers
+- pip install phonenumbers
 
-It supports Python 2.5-2.7 and Python 3.x 
+- It supports Python 2.5-2.7 and Python 3.x 
 
 ## MODULES:
 - Geocoder: Used for tracking the location based on the provided country code
