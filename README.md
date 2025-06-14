@@ -3,7 +3,7 @@ It can't provide the accurate location of the person because of user privacy. It
 Parse is the function which is most important used to parse the string into the readable number.
 
 Installation:(using pip command) 
- pip install phonenumbers
+pip install phonenumbers
 
 It supports Python 2.5-2.7 and Python 3.x 
 
