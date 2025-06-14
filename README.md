@@ -10,6 +10,6 @@ pip install phonenumbers
 It supports Python 2.5-2.7 and Python 3.x 
 
 ### MODULES:
-1.Geocoder: Used for tracking the location based on the provided country code
-2.Carrier: Used for the getting the carrier’s name (service provider) of a number
-3.Timezone: Provides the timezone according to the country 
+- Geocoder: Used for tracking the location based on the provided country code
+- Carrier: Used for the getting the carrier’s name (service provider) of a number
+- Timezone: Provides the timezone according to the country 
